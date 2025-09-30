@@ -1,2 +1,4 @@
-print(head);
-    cout<<endl<<head->data<<" "<<tail->data<<endl;
+for (int i = 0; i <nums.size(); i++)
+// {
+//     cout<<nums[i]<<" ";
+// }

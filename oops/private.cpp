@@ -6,8 +6,8 @@ class hero
 {
     private:
     int health;
-    char level;
     
+    char level;
     public:
     int gethealth()
     {
@@ -26,6 +26,7 @@ int main()
     int health=654;
     hero raghav;
     raghav.sethealth(90);
+    cout<<raghav.level;
     cout << raghav.gethealth();
     
 

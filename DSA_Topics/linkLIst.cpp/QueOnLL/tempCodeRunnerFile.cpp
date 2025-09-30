@@ -1,3 +1,1 @@
-removeLoop(head);
-cout <<"loop removed"<<endl;
-    
+next2=curr2->next;
